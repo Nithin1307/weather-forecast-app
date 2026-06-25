@@ -36,7 +36,3 @@ A simple weather forecast web application built using **HTML, CSS, JavaScript, a
 
 1. Clone or download the repository.
 2. Open `index.html` in your browser.
-
-## 👤 Author
-
-**Nithin**
