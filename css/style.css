@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial;
+}
+
+body{
+    background:#ff8c42;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.card{
+    width:500px;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+}
+
+h2{
+    margin-bottom:20px;
+    color:#ff6600;
+}
+
+input{
+    width:65%;
+    padding:10px;
+}
+
+button{
+    padding:10px 15px;
+    background:#ff6600;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#e65100;
+}
+
+#weather{
+    margin-top:20px;
+    line-height:30px;
+}
+
+#forecast{
+    margin-top:20px;
+    display:flex;
+    justify-content:space-between;
+    gap:10px;
+}
+
+.day{
+    width:90px;
+    background:#ffe0b2;
+    border-radius:10px;
+    padding:10px;
+    text-align:center;
+    overflow:hidden;
+}
+
+.day img{
+    width:60px;
+    height:60px;
+    display:block;
+    margin:8px auto;
+}
