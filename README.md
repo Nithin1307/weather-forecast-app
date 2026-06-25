@@ -1,28 +1,42 @@
-# Weather Forecast App
+# 🌤 Weather Forecast App
 
-A simple weather forecast web application built using HTML, CSS, JavaScript, and jQuery. It displays the current weather and a 5-day forecast for any city using the OpenWeather API.
+A simple weather forecast web application built using **HTML, CSS, JavaScript, and jQuery**. It displays the current weather and a **5-day weather forecast** for any city using the **OpenWeather API**.
 
-## Features
+## 📸 Screenshots
 
-- Search weather by city
-- Current weather details
-- 5-day weather forecast
-- Responsive design
-- Error message for invalid city
+### Home Page
 
-## Technologies Used
+![Home Page](screenshots/home.png)
 
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- OpenWeather API
+### Weather Forecast
 
-## How to Run
+![Weather Forecast](screenshots/weather-result.png)
 
-1. Download or clone the project.
+### Invalid City
+
+![Invalid City](screenshots/invalid-city.png)
+
+## ✨ Features
+
+* Search weather by city
+* Current weather details
+* 5-day weather forecast
+* Responsive design
+* Error message for invalid city
+
+## 🛠 Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* OpenWeather API
+
+## 🚀 How to Run
+
+1. Clone or download the repository.
 2. Open `index.html` in your browser.
 
-## Author
+## 👤 Author
 
-Nithin
+**Nithin**
